@@ -96,7 +96,7 @@
     <li>PROJETS PERSONNELS / CONTRIBUTIONS</li>
 </ul>
 <P>Contributions sur Wikidata : </P>
-    <p><a href="https://www.wikidata.org/wiki/Q131360210">lien</a></p>
+    <p><a href="https://www.wikidata.org/wiki/Q131400630">lien</a></p>
     </main>
 <footer>contacté:manegabechristian311@gmail.com whatsapps :+243970478953</footer>
 </body>
