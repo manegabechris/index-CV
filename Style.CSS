@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #947a7a;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background: #444;
+    padding: 10px 0;
+    font-size: 1.2em;
+    color: #fff;
+    
+}
+main{
+    padding: 20px;
+    margin-top: 1px;
+}
+footer {
+    background: #444;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+h3 {
+    color: rgb(12, 12, 235);
+    font-size: 1.0em;
+}
+h4 {
+    color: blue;
+    font-size: 1.0em;
+}
+a{
+color: aqua;
+}
+li{
+    color: blue;
+    font-size: 1.0em;
+}
